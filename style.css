@@ -1,0 +1,35 @@
+body{
+    background-image: url("images/background-image.png");
+    background-size: cover;
+}
+.container{
+    background-image: url("images/board_component_with_lion_logo\ 1@2x.png");
+    width: 720px;
+    height: 495px;
+    margin-left: 360px;
+    margin-top: 203px;
+    display: flex;
+    justify-content: space-around;
+    background-size: cover;
+}
+.container h3{
+    margin-top: 180px;
+    font-family: "Back to School Personal Use";
+    font-size: 64px;
+    font-weight: 400;
+    letter-spacing: 0%;
+    color: #000000;
+}
+.container h1{
+    font-size: 80px;
+    
+}
+.info{
+    background-color: black;
+    color: red;
+    text-align: center;
+}
+button{
+    font-size: 18px;
+}
+
